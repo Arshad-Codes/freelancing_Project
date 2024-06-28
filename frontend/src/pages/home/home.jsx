@@ -1,5 +1,5 @@
 import React from "react";
-import "./Home.scss";
+import "./home.scss";
 import Slide from "../../components/slide/Slide";
 import { cards, profiles } from "../../data";
 import CatCard from "../../components/catCard/CatCard";
